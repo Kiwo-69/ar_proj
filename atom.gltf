@@ -152,6 +152,17 @@
 			"type":"SCALAR"
 		}
 	],
+	    "textures": [
+	        {
+	            "sampler": 0,
+	            "source": 0
+	        }
+	    ],
+	    "images": [
+	        {
+	            "uri": "29365c8f0f77096e3a62ed0aba8671e0.jpg"
+	        }
+	    ],
 	"bufferViews":[
 		{
 			"buffer":0,
